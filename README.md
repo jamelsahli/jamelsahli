@@ -4,7 +4,9 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Full stack developer 👨‍💻⚡
 ---------------------------
 
-💻 Most used line of code git commit -m "Initial Commit" 📫 How to reach me: hichembouallegue@gmail.com. ⚡ Fun fact: I like horror movies 🎬 and going to Gym 🏋️
+💻 Most used line of code git commit -m "Initial Commit" 
+📫 How to reach me: hichembouallegue@gmail.com.
+⚡ Fun fact: I like horror movies 🎬 and going to Gym 🏋️
 
 * 🌍  I'm based in Tunisia
 * ✉️  You can contact me at [hichembouallegue@gmail.com](mailto:hichembouallegue@gmail.com)
